@@ -2,9 +2,7 @@ import requests
 import csv
 import urllib.request
 import json
-from bs4 import BeautifulSoup
-#FANG Stocks FB-AAPL-NFLX-GOOGL
-#All of FB data-Get recent 2019 fb data
+
 headers = []
 def fb_data():
     url = 'https://www.quandl.com/api/v3/datasets/WIKI/FB/data.csv?start_date=2007-11-01&end_date=2019-11-01&api_key=e4GhL94a1or42eyT5bTz'
