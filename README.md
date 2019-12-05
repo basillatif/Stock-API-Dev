@@ -1,10 +1,7 @@
 # Stock-API-Dev
 QUANDL API:
-Username: latifb@uci.edu
-Password: ******
-API Key: *****
-Login Page for Quandl: https://www.quandl.com/sign-up-modal
-
+Username: latifb@uci.edu <br />  
+Login Page for Quandl: https://www.quandl.com/sign-up-modal <br />  
 The Quandl API makes getting financial data delightfully easy. This simple call gets a historical time-series of AAPL’s stock price in CSV format: <br />  
 https://www.quandl.com/api/v3/datasets/WIKI/AAPL.csv <br />  
 <br />  
